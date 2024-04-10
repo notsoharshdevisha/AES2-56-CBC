@@ -9,12 +9,15 @@
     "test": "mocha --require ts-node/register test/**/*.test.ts"
   },
   "keywords": [],
-  "author": "",
+  "author": "harsh",
   "license": "ISC",
   "devDependencies": {
     "@types/mocha": "^10.0.6",
     "mocha": "^10.4.0",
-    "ts-node": "^10.9.2",
+    "ts-node": "^10.9.2"
+  },
+  "dependencies": {
+    "crypto": "^1.0.1",
     "typescript": "^5.4.4"
   }
 }
