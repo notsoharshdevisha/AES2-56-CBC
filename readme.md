@@ -4,7 +4,7 @@
 `npm run build`
 
 ### To run:
-`npm run start -- "arg1" "arg2" "arg3" arg4"`
+`npm run start -- arg1 arg2 arg3 arg4`
 
 ### To run tests:
 `npm run test`
